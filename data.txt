@@ -1,0 +1,8 @@
+user: hello
+assistant: hi there
+
+user: what is ai
+assistant: ai is a system that learns patterns
+
+user: how are you
+assistant: i am fine

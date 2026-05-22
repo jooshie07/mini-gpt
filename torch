@@ -1,0 +1,12 @@
+# Mini GPT (Transformer from Scratch)
+
+This is a small GPT-like model built using PyTorch.
+
+## Features
+- Transformer model
+- Text generation
+- Chat-style prompting
+
+## How to run
+
+Train:
